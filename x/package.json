@@ -20,6 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/parse-json": "^4.0.0",
+    "eslint-config-airbnb": "^19.0.4",
     "next": "13.5.4",
     "react": "^18",
     "react-dom": "^18",
@@ -39,6 +40,7 @@
     "prettier": "3.0.3",
     "stylelint": "^15.10.3",
     "stylelint-config-prettier": "^9.0.5",
+    "stylelint-config-sass-guidelines": "^10.0.0",
     "stylelint-config-standard": "^34.0.0",
     "typescript": "^5.2.2"
   }
